@@ -1,6 +1,6 @@
 [
     {
-        "requirement": "dev-ibx-1095-log-in-with-email as 8.3.x-dev",
+        "requirement": "dev-ibx-1095-master as 9.0.x-dev",
         "repositoryUrl": "https://github.com/ezsystems/BehatBundle",
         "package": "ezsystems/behatbundle",
         "shouldBeAddedAsVCS": false
